@@ -1,0 +1,126 @@
+PS C:\GIT\WaitlistManager> & C:/Python313/python.exe c:/GIT/WaitlistManager/waitlist_manager.py
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 1
+Enter customer name to add to front: Jacob
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4
+Current waitlist:
+Jacob
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 2
+Enter customer name to add to end: Liz
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4
+Current waitlist:
+Jacob
+Liz
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 1
+Enter customer name to add to front: Jennifer
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4
+Current waitlist:
+Jennifer
+Jacob
+Liz
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 2
+Enter customer name to add to end: Greg
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4
+Current waitlist:
+Jennifer
+Jacob
+Liz
+Greg
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 3
+Enter customer name to remove: Greg
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4
+Current waitlist:
+Jennifer
+Jacob
+Liz
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 4 
+Current waitlist:
+Jennifer
+Jacob
+Liz
+
+--- Waitlist Manager ---
+1. Add customer to front
+2. Add customer to end
+3. Remove customer by name
+4. Print waitlist
+5. Exit
+Choose an option (1–5): 5
+Exiting waitlist manager.
+PS C:\GIT\WaitlistManager>

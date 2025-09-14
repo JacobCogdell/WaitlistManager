@@ -11,5 +11,5 @@ class Node:
         self.next = None        # defaults to empty
 
 # Helper Method to Print the Object
-    def __ToString__(self):
+    def __str__(self):
         return f"Node(name={self.name!r})"

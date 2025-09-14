@@ -25,7 +25,8 @@ class LinkedList:
         # Insert a new node at the end of the list
         last_node = self.get_last_node()
         if last_node is None:
-            return None
+            new_node = Node(name)
+            self.head = new_node
         
         new_node = Node(name)
         last_node.next = new_node
@@ -50,6 +51,7 @@ class LinkedList:
         while current is not None:
             if current.name == name:
                 prev.next = current.next
+                break
             prev = current
             current = current.next
         return None
